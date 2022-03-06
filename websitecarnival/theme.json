@@ -98,65 +98,21 @@
 					"name": "System Font",
 					"slug": "system-font"
 				},
-				{
-					"fontFamily": "Rajdhani,sans-serif",
-					"name": "Rajdhani",
-					"slug": "rajdhani",
-					"google": "family=Rajdhani:wght@300;400;500;600;700"
-				},
+				
 				{
 					"fontFamily": "Roboto,sans-serif",
 					"name": "Roboto",
 					"slug": "roboto",
 					"google": "family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900"
 				},
-				{
-					"fontFamily": "Poppins,sans-serif",
-					"name": "Poppins",
-					"slug": "poppins",
-					"google": "family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900"
-				},
-				{
-					"fontFamily": "Lato,sans-serif",
-					"name": "Lato",
-					"slug": "lato",
-					"google": "family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900"
-				},
-				{
-					"fontFamily": "Nunito,sans-serif",
-					"name": "Nunito",
-					"slug": "nunito",
-					"google": "family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900"
-				},
-				{
-					"fontFamily": "\"Maven Pro\",sans-serif",
-					"name": "Maven Pro",
-					"slug": "maven-pro",
-					"google": "family=Maven+Pro:wght@400;500;600;700;800;900"
-				},
-				{
-					"fontFamily": "Georgia,\"Times New Roman\",serif",
-					"name": "Georgia",
-					"slug": "georgia"
-				},
-				{
-					"fontFamily": "Merriweather,serif",
-					"name": "Merriweather",
-					"slug": "merriweather",
-					"google": "family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900"
-				},
+						
 				{
 					"fontFamily": "Lora,serif",
 					"name": "Lora",
 					"slug": "lora",
 					"google": "family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
 				},
-				{
-					"fontFamily": "Arvo,serif",
-					"name": "Arvo",
-					"slug": "arvo",
-					"google": "family=Arvo:ital,wght@0,400;0,700;1,400;1,700"
-				},
+				
 				{
 					"fontFamily": "Pilgi,\"Segoe Script\",cursive",
 					"name": "Script",
@@ -208,7 +164,7 @@
 			},
 			"h1": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--huge)"
 				},
 				"color": {
@@ -217,7 +173,7 @@
 			},
 			"h2": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--large)"
 				},
 				"color": {
@@ -226,7 +182,7 @@
 			},
 			"h3": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--medium)"
 				},
 				"color": {
@@ -235,7 +191,7 @@
 			},
 			"h4": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--normal)"
 				},
 				"color": {
@@ -244,7 +200,7 @@
 			},
 			"h5": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--normal)"
 				},
 				"color": {
@@ -253,7 +209,7 @@
 			},
 			"h6": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--normal)"
 				},
 				"color": {
@@ -283,7 +239,7 @@
 			},
 			"core/site-title": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)",
+					"fontFamily": "var(--wp--preset--font-family--roboto)",
 					"fontSize": "var(--wp--preset--font-size--large)",
 					"lineHeight": "1"
 				},
@@ -310,7 +266,7 @@
 			},
 			"core/post-title" : {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--georgia)"
+					"fontFamily": "var(--wp--preset--font-family--roboto)"
 				},
 				"elements": {
 					"link": {
