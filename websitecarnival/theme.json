@@ -66,6 +66,7 @@
 		}
 	],
 	"settings": {
+		"appearanceTools": true,
 		"color": {
 			"defaultPalette": false,
 			"defaultGradients": false,
@@ -112,11 +113,54 @@
 					"slug": "lora",
 					"google": "family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
 				},
-				
+				{
+					"fontFamily": "Cormorant Garamond,serif",
+					"name": "Cormorant Garamond",
+					"slug": "cormorant-garamond",
+					"google": "family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
+				},
+				{
+					"fontFamily": "Raleway,sans-serif",
+					"name": "Raleway",
+					"slug": "raleway",
+					"google": "family=Raleway:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
+				},
+
+				{
+					"fontFamily": "Barlow,sans-serif",
+					"name": "Barlow",
+					"slug": "barlow",
+					"google": "family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
+				},
+
+				{
+					"fontFamily": "Barlow Condensed,sans-serif",
+					"name": "Barlow Condensed",
+					"slug": "barlow-condensed",
+					"google": "family=Barlow+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
+				},
+
+				{
+					"fontFamily": "Poppins,sans-serif",
+					"name": "Poppins",
+					"slug": "poppins",
+					"google": "family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900"
+				},
+				{
+					"fontFamily": "Georgia,\"Times New Roman\",serif",
+					"name": "Georgia",
+					"slug": "georgia"
+				},
 				{
 					"fontFamily": "Pilgi,\"Segoe Script\",cursive",
 					"name": "Script",
 					"slug": "script"
+				},
+				{
+					"fontFamily": "Gilda Display,serif",
+					"name": "Gilda Display",
+					"slug": "gilda-display",
+					"google": "family=Gilda+Display&display=swap,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900"
 				}
 			],
 			"fontSizes": [
@@ -140,9 +184,8 @@
 			"width": true
 		},
 		"layout": {
-			"contentSize": "min( calc(100vw - 2rem), 80rem)",
-			"wideSize": "min( calc(100vw - 2rem), 90rem)",
-			"outerPadding": "0.5rem"
+			"contentSize": "1100px",
+			"wideSize": "640px"
 		},
 		"spacing": {
 			"blockGap": true,
