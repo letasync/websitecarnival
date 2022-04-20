@@ -1,0 +1,10 @@
+{
+	"version": 2,
+	"title": "Blue-Red",
+	"settings": {
+		"custom": {
+			"ph": "209","ps": "99%","pl": "28%",
+			"sh": "0", "ss": "100%", "sl": "50%"
+		  }
+	}
+}

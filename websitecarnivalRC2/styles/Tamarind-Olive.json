@@ -1,0 +1,10 @@
+{
+	"version": 2,
+	"title": "Tamarind-Olive",
+	"settings": {
+		"custom": {
+			"ph": "25","ps": "76%","pl": "31%",
+			"sh": "80", "ss": "60%", "sl": "35%"
+		  }
+	}
+}

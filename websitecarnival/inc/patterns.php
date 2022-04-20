@@ -1,7 +1,0 @@
-<?php
-/**
- * Block Patterns
- *
- * 
- */
-

@@ -1,0 +1,10 @@
+{
+	"version": 2,
+	"title": "Slate-Mushroom",
+	"settings": {
+		"custom": {
+			"ph": "215","ps": "32%","pl": "20%",
+			"sh": "12", "ss": "27%", "sl": "67%"
+		  }
+	}
+}
